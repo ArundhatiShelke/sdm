@@ -1,0 +1,7 @@
+The need for a Software Development Process
+Software is developed for four common reasons:
+
+To meet the specific needs of a specific client/business (the case with custom software)
+To solve a real-world problem
+For personal use (e.g., a pharmacy owner may require inventory managing and billing software.)
+The demand for better quality management has enforced the discipline of software engineering, which focuses on applying the systematic approach of the engineering paradigm to the software development process.
